@@ -1,4 +1,4 @@
-### Find our work at redboxmedia.com
+### Find our work at <a href="https://redboxmedia.com">redboxmedia.com</a>
 
 <!--
 **rbmstudio/rbmstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
